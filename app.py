@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Hardcoded mappings (edit daily as needed)
 url_map = {
-    "newsupdate": "https://example.com/today-news",
+    "newsupdate": "https://www.canva.com/design/DAGyLu6Nvhg/SVCIkHF7mryi0dJ-dU51sg/view?utm_content=DAGyLu6Nvhg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfd21626c30",
     "community": "https://aiforeveryone.community.com"
 }
 
